@@ -4,7 +4,7 @@ Install cargo on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-cargo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cargo/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-cargo/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cargo)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/cargo)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/cargo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/releases/)|
+|[![github](https://github.com/buluma/ansible-role-cargo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cargo/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-cargo/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cargo)|[![quality](https://img.shields.io/ansible/quality/58369)](https://galaxy.ansible.com/buluma/cargo)|[![downloads](https://img.shields.io/ansible/role/d/58369)](https://galaxy.ansible.com/buluma/cargo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
