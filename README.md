@@ -4,7 +4,7 @@ Install cargo on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
 |------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-cargo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cargo/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-cargo/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cargo)|[![quality](https://img.shields.io/ansible/quality/58369)](https://galaxy.ansible.com/buluma/cargo)|[![downloads](https://img.shields.io/ansible/role/d/35303113)](https://galaxy.ansible.com/buluma/cargo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/pulls/)|
+|[![github](https://github.com/buluma/ansible-role-cargo/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-cargo/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-cargo/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-cargo)|[![quality](https://img.shields.io/ansible/quality/58369)](https://galaxy.ansible.com/buluma/cargo)|[![downloads](https://img.shields.io/ansible/role/d/58369)](https://galaxy.ansible.com/buluma/cargo)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-cargo.svg)](https://github.com/buluma/ansible-role-cargo/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -30,7 +30,7 @@ The machine needs to be prepared. In CI this is done using `molecule/default/pre
 
   roles:
     - role: buluma.bootstrap
-    - role: buluma.buildtools
+    # - role: buluma.buildtools
 ```
 
 
@@ -59,7 +59,6 @@ The following roles are used to prepare a system. You can prepare your system in
 | Requirement | GitHub | GitLab |
 |-------------|--------|--------|
 |[buluma.bootstrap](https://galaxy.ansible.com/buluma/bootstrap)|[![Build Status GitHub](https://github.com/buluma/ansible-role-bootstrap/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-bootstrap/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-bootstrap/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-bootstrap)|
-|[buluma.buildtools](https://galaxy.ansible.com/buluma/buildtools)|[![Build Status GitHub](https://github.com/buluma/ansible-role-buildtools/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-buildtools/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-buildtools/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-buildtools)|
 |[buluma.epel](https://galaxy.ansible.com/buluma/epel)|[![Build Status GitHub](https://github.com/buluma/ansible-role-epel/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-epel/actions)|[![Build Status GitLab ](https://gitlab.com/buluma/ansible-role-epel/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-epel)|
 
 ## [Context](#context)
