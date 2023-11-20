@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-cargo/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.3...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#11](https://github.com/buluma/ansible-role-cargo/issues/11)
+- Update action [\#10](https://github.com/buluma/ansible-role-cargo/issues/10)
+
 ## [0.1.3](https://github.com/buluma/ansible-role-cargo/tree/0.1.3) (2023-05-05)
 
 [Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.2...0.1.3)
