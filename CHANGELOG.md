@@ -1,20 +1,34 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-cargo/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.8...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#14](https://github.com/buluma/ansible-role-cargo/issues/14)
+- Update action [\#13](https://github.com/buluma/ansible-role-cargo/issues/13)
+- rebuild action [\#12](https://github.com/buluma/ansible-role-cargo/issues/12)
+
+## [0.1.8](https://github.com/buluma/ansible-role-cargo/tree/0.1.8) (2023-12-26)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.4...0.1.8)
+
+## [0.1.4](https://github.com/buluma/ansible-role-cargo/tree/0.1.4) (2023-11-20)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.5...0.1.4)
+
+## [0.1.5](https://github.com/buluma/ansible-role-cargo/tree/0.1.5) (2023-11-20)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.7...0.1.5)
+
 ## [0.1.7](https://github.com/buluma/ansible-role-cargo/tree/0.1.7) (2023-11-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.6...0.1.7)
 
 ## [0.1.6](https://github.com/buluma/ansible-role-cargo/tree/0.1.6) (2023-11-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.5...0.1.6)
-
-## [0.1.5](https://github.com/buluma/ansible-role-cargo/tree/0.1.5) (2023-11-20)
-
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.4...0.1.5)
-
-## [0.1.4](https://github.com/buluma/ansible-role-cargo/tree/0.1.4) (2023-11-20)
-
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.3...0.1.4)
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.3...0.1.6)
 
 **Closed issues:**
 
