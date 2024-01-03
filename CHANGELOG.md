@@ -2,7 +2,15 @@
 
 ## [Unreleased](https://github.com/buluma/ansible-role-cargo/tree/HEAD)
 
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.8...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.2.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#15](https://github.com/buluma/ansible-role-cargo/pull/15) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [0.2.0](https://github.com/buluma/ansible-role-cargo/tree/0.2.0) (2024-01-02)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.8...0.2.0)
 
 **Closed issues:**
 
@@ -16,19 +24,19 @@
 
 ## [0.1.4](https://github.com/buluma/ansible-role-cargo/tree/0.1.4) (2023-11-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.5...0.1.4)
-
-## [0.1.5](https://github.com/buluma/ansible-role-cargo/tree/0.1.5) (2023-11-20)
-
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.7...0.1.5)
-
-## [0.1.7](https://github.com/buluma/ansible-role-cargo/tree/0.1.7) (2023-11-20)
-
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.6...0.1.7)
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.6...0.1.4)
 
 ## [0.1.6](https://github.com/buluma/ansible-role-cargo/tree/0.1.6) (2023-11-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.3...0.1.6)
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.7...0.1.6)
+
+## [0.1.7](https://github.com/buluma/ansible-role-cargo/tree/0.1.7) (2023-11-20)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.5...0.1.7)
+
+## [0.1.5](https://github.com/buluma/ansible-role-cargo/tree/0.1.5) (2023-11-20)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.1.3...0.1.5)
 
 **Closed issues:**
 
