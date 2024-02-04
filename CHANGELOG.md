@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-cargo/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.4.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump release-drafter/release-drafter from 5 to 6 [\#19](https://github.com/buluma/ansible-role-cargo/pull/19) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [0.4.0](https://github.com/buluma/ansible-role-cargo/tree/0.4.0) (2024-01-23)
 
 [Full Changelog](https://github.com/buluma/ansible-role-cargo/compare/0.3.0...0.4.0)
