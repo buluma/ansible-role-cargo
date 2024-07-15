@@ -34,10 +34,10 @@ jobs:
   lint:
     runs-on: ubuntu-20.04
     steps:
-      - name: checkout
+      - name: Checkout Role
         uses: actions/checkout@v4
-      - name: ansible-lint
-        uses: ansible-community/ansible-lint-action@main
+      - name: Run Ansible-lint
+        uses: ansible/ansible-lint@v24.7.0
   test:
     needs:
       - lint
@@ -50,18 +50,16 @@ jobs:
             tag: "alpine-openrc"
           - image: "enterpriselinux"
             tag: "8"
-          - image: "enterpriselinux"
-            tag: "latest"
           - image: "docker-molecule-images"
             tag: "buster"
           - image: "docker-molecule-images"
             tag: "bullseye"
           - image: "docker-molecule-images"
+            tag: "38"
+          - image: "docker-molecule-images"
             tag: "39"
           - image: "docker-molecule-images"
             tag: "40"
-          - image: "docker-molecule-images"
-            tag: "rawhide"
           - image: "docker-molecule-images"
             tag: "opensuse"
           - image: "docker-molecule-images"
