@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test if cargo_prefix is set correctly
   ansible.builtin.assert:
     that:
