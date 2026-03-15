@@ -6,6 +6,8 @@
 
 **Merged pull requests:**
 
+- Bump actions/setup-python from 5 to 6 [\#31](https://github.com/buluma/ansible-role-cargo/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump actions/checkout from 4 to 6 [\#30](https://github.com/buluma/ansible-role-cargo/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.2 to 24.10.0 [\#27](https://github.com/buluma/ansible-role-cargo/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#26](https://github.com/buluma/ansible-role-cargo/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#25](https://github.com/buluma/ansible-role-cargo/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
